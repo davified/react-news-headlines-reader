@@ -42,3 +42,6 @@ Steps for part 2 (react-router):
   ]
 }
 ```
+
+---
+Copyright (c) 2018 ThoughtWorks. For personal use and training purposes only; not to be copied or distributed without further approval.
